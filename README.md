@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/mobile-screenshot.png)
-![](./images/desktop-screenshot.png)
+![](./assets/mobile-screenshot.png)
+![](./assets/desktop-screenshot.png)
 
 ### Links
 
-- Solution URL: [https://github.com/andreaslarssamils/social-proof-section](https://github.com/andreaslarssamils/social-proof-section)
+- Solution URL: [https://github.com/andreaslarssamils/meet-landing-page](https://github.com/andreaslarssamils/meet-landing-page)
 - Live Site URL: [https://andreaslarssamils.github.io/social-proof-section/](https://andreaslarssamils.github.io/social-proof-section/)
 
 ## My process
@@ -46,7 +46,7 @@ Ive been using a straight forward process with HTML and CSS together with Flexbo
 
 ### What I learned
 
-During this project I have learned how to use flexbox properties like flex-start flex-end
+Ive learned to better use flexbox
 
 - Frontend Mentor - [@andreaslarssamils](https://www.frontendmentor.io/profile/andreaslarssamils)
 

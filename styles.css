@@ -24,6 +24,7 @@ p {
 
 body {
   margin: 0;
+  padding: 0;
   font-family: 'Red Hat Display', sans-serif;
   background-color: var(--White);
 }
