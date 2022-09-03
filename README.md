@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/andreaslarssamils/meet-landing-page](https://github.com/andreaslarssamils/meet-landing-page)
-- Live Site URL: [https://andreaslarssamils.github.io/social-proof-section/](https://andreaslarssamils.github.io/social-proof-section/)
+- Live Site URL: [https://andreaslarssamils.github.io/meet-landing-page/](https://andreaslarssamils.github.io/meet-landing-page/)
 
 ## My process
 
